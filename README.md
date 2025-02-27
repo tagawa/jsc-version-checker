@@ -29,4 +29,3 @@ Check specific app, e.g. Safari:
 May require `sudo` for process sampling.
 
 [MIT License](LICENSE)
-```
