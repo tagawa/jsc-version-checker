@@ -4,6 +4,11 @@ A bash script to identify JavaScriptCore versions used by running applications o
 
 ## Usage
 
+Make sure the script is executable:
+```bash
+chmod +x get_jsc_version.sh
+```
+
 Check all apps:
 ```bash
 ./get_jsc_version.sh
